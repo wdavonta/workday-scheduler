@@ -6,7 +6,7 @@ Work Day Scheduler Starter Code
 
 [Github](https://github.com/wdavonta/workday-scheduler.git) "Work Day Scheduler Repo"
 
-[Link] ( https://wdavonta.github.io/workday-scheduler/)
+[Link] (https://wdavonta.github.io/workday-scheduler/)
 
 
 # About the project
