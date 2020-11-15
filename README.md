@@ -14,7 +14,7 @@ This project is about  using a daily planner to create a schedule. The current d
 You be able to click on an event and click the save button for that time block. The text for that event is saved in local storage everytime the page is refresh the saved events persist.
 
 
-![alt text](png "Screenshot of webite")
+![alt text](scheduler.png "Screenshot of webite")
 
 # Contact Info
 Da'Vonta Williamson
