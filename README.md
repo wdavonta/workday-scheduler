@@ -4,7 +4,7 @@ Work Day Scheduler Starter Code
 
 # Linked
 
-[Github](https://github.com/wdavonta/workday-scheduler.git "Work Day Scheduler Repo"
+[Github](https://github.com/wdavonta/workday-scheduler.git) "Work Day Scheduler Repo"
 
 [Link] ( https://wdavonta.github.io/workday-scheduler/)
 
@@ -14,7 +14,7 @@ This project is about  using a daily planner to create a schedule. The current d
 You be able to click on an event and click the save button for that time block. The text for that event is saved in local storage everytime the page is refresh the saved events persist.
 
 
-![alt text](scheduler.png "Screenshot of webite")
+![alt text](scheduler.png "Screenshot of website")
 
 # Contact Info
 Da'Vonta Williamson
